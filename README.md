@@ -10,7 +10,7 @@
 ## General
 1. Git Basics: https://github.com/SiGMobileUIUC/GitBasics
 
-## Codelabs
+## Other Materials
 1. Build your first Android App in Java: https://codelabs.developers.google.com/codelabs/build-your-first-android-app/index.html?index=..%2F..index#0
-2. more coming...
+2. Udemy course (will teach you everything you need to know): https://www.udacity.com/course/new-android-fundamentals--ud851
 
